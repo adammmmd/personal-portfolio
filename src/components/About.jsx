@@ -7,7 +7,7 @@ export default function About() {
                 <h2 className="heading heading-sec heading-sec__mb-med">
                     <span className="heading-sec__main">About Me</span>
                     <span className="heading-sec__sub">
-                        <p>I'm a frontend developer based out of Jakarta, Indonesia. I love building apps that solve real-world problems, and that are delightful to use. My specialities include React JS, Styled Components, and Golang.
+                        <p>I'm a developer based in Jakarta, Indonesia. I love building apps that solve real-world problems, and that are delightful to use. My specialities include React JS and Golang.
                         </p>
                     </span>
                 </h2>
@@ -31,6 +31,7 @@ export default function About() {
                             <div className="skills__skill">Git</div>
                             <div className="skills__skill">Figma</div>
                             <div className="skills__skill">Golang</div>
+                            <div className="skills__skill">PostgreSQL</div>
                         </div>
                     </div>
                 </div>
